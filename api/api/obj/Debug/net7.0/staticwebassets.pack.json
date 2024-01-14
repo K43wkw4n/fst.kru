@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\branch\\29a9e840-2fa6-4cb0-9202-09d014ed7f0f.png",
+      "PackagePath": "staticwebassets\\branch\\29a9e840-2fa6-4cb0-9202-09d014ed7f0f.png"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\branch\\d5ee0a59-2b63-4d83-8c68-e167c77d6406.jpg",
+      "PackagePath": "staticwebassets\\branch\\d5ee0a59-2b63-4d83-8c68-e167c77d6406.jpg"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\newsPhotos\\4aea2147-a95b-48fe-9f46-11e1ba8545a3.jpg",
+      "PackagePath": "staticwebassets\\newsPhotos\\4aea2147-a95b-48fe-9f46-11e1ba8545a3.jpg"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\newsPhotos\\e3fa1e33-1ac4-46a8-87fc-c6de1523ef8f.jpg",
+      "PackagePath": "staticwebassets\\newsPhotos\\e3fa1e33-1ac4-46a8-87fc-c6de1523ef8f.jpg"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\newsPhotos\\e60ce587-0b74-4ddd-989a-414882ad659a.jpg",
+      "PackagePath": "staticwebassets\\newsPhotos\\e60ce587-0b74-4ddd-989a-414882ad659a.jpg"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\news\\dfd5af3f-6879-42f7-921c-a6d9ce73d5e9.png",
+      "PackagePath": "staticwebassets\\news\\dfd5af3f-6879-42f7-921c-a6d9ce73d5e9.png"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\person\\08464207-70d4-460a-8333-c18217fb313e.jpg",
+      "PackagePath": "staticwebassets\\person\\08464207-70d4-460a-8333-c18217fb313e.jpg"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\person\\59ea6cc9-1f16-4494-b80b-265f3a33b3fe.png",
+      "PackagePath": "staticwebassets\\person\\59ea6cc9-1f16-4494-b80b-265f3a33b3fe.png"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\person\\86f6d56a-7f1e-4e70-86ee-aaa9a4a7cb7c.jpg",
+      "PackagePath": "staticwebassets\\person\\86f6d56a-7f1e-4e70-86ee-aaa9a4a7cb7c.jpg"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\slideShow\\bfd2b228-0228-4a96-a660-c8d8eb59da43.png",
+      "PackagePath": "staticwebassets\\slideShow\\bfd2b228-0228-4a96-a660-c8d8eb59da43.png"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\slideShow\\e1dad1b1-c398-4e6b-859f-904590f23c1d.jpg",
+      "PackagePath": "staticwebassets\\slideShow\\e1dad1b1-c398-4e6b-859f-904590f23c1d.jpg"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\slideShow\\e3c0f62f-8569-4879-b06d-e1a1343f84f0.jpg",
+      "PackagePath": "staticwebassets\\slideShow\\e3c0f62f-8569-4879-b06d-e1a1343f84f0.jpg"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\upload-File\\34e0b156-bd4b-460c-9fcf-43f4a0a051aa_Chat GPT.pdf",
+      "PackagePath": "staticwebassets\\upload-File\\34e0b156-bd4b-460c-9fcf-43f4a0a051aa_Chat GPT.pdf"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\upload-File\\c5af1f31-28fa-4d30-8b76-89f8042fae6c_Mind Map.pdf",
+      "PackagePath": "staticwebassets\\upload-File\\c5af1f31-28fa-4d30-8b76-89f8042fae6c_Mind Map.pdf"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\weLearn\\49896589-ee8f-414f-96be-617f2b8fd1d8.png",
+      "PackagePath": "staticwebassets\\weLearn\\49896589-ee8f-414f-96be-617f2b8fd1d8.png"
+    },
+    {
+      "Id": "D:\\โปรเจคจบ\\web-fst\\api\\api\\wwwroot\\weLearn\\99c1a017-a21e-4f83-a264-cbdb607e264e.png",
+      "PackagePath": "staticwebassets\\weLearn\\99c1a017-a21e-4f83-a264-cbdb607e264e.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.api.props",
+      "PackagePath": "build\\api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.api.props",
+      "PackagePath": "buildMultiTargeting\\api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.api.props",
+      "PackagePath": "buildTransitive\\api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
