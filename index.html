@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="https://www.kru.ac.th/kru/assets/img/kru/logo/kru_color.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>คณะวิทยาศาสตร์และเทคโนโลยี</title>
+
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script type="text/javascript">
+      window.addEventListener("scroll", function () {
+        var scrollTop = document.querySelector("div.header");
+        scrollTop.classList.toggle("sticky", window.scrollY);
+      });
+    </script>
+  </body>
+</html>

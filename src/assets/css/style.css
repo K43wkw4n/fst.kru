@@ -1,0 +1,127 @@
+.header {
+  position: sticky;
+  box-shadow: 0 4px 8px -2px gray;
+}
+
+.nav-item {
+  margin: 0 20px;
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 4px 8px -2px gray;
+  z-index: 1;
+}
+
+.topNav {
+  /* background-color: #f3f4f6; */
+  background-color: #6aad6a;
+  padding: 3px 20px;
+  color: white;
+}
+
+.hoverRemove:hover {
+  background-color: red;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+@media (max-width: 850px) {
+  .headerMenu {
+    display: none;
+  }
+  .webName {
+    font-size: medium;
+  }
+  .menuIcon {
+    position: static;
+    display: flex;
+    align-items: center;
+  }
+}
+
+@media (min-width: 850px) {
+  .menuIcon {
+    display: none;
+  }
+  .headerMenu {
+    display: flex;
+  }
+}
+
+/* -----------------------------------------------dropZone--------------------------------------------- */
+
+.dropzone {
+  border: 2px dashed #ccc;
+  padding: 2rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.dropzone p {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+.dropzone.highlight {
+  border-color: #007bff;
+}
+
+/* --------------------------------------------modal login------------------------------------------------ */
+
+.vertical-center-modal {
+  text-align: center;
+  white-space: nowrap;
+}
+
+.vertical-center-modal:before {
+  content: "";
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  width: 0;
+}
+
+.vertical-center-modal .ant-modal {
+  display: inline-block;
+  vertical-align: middle;
+  top: 0;
+  text-align: left;
+}
+/* --------------------------------------------modal login------------------------------------------------ */
+
+@media print {
+  @page {
+    margin-left: 0.5in;
+    margin-right: 0.5in;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  body {
+    visibility: hidden;
+    margin: 1.6cm;
+  }
+
+  .printable-content {
+    visibility: visible;
+    /* font-size: xx-large;   */
+    /* transform: scale(1.1);  */
+    /* transform-origin: top; */
+  }
+}
+
+.no-spin-button .ant-input-number-handler-wrap {
+  display: none; 
+}
+ 
+.centered-input-number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
