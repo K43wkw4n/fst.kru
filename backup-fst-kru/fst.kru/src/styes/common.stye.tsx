@@ -1,1 +1,0 @@
-export const marginHorizon = { marginTop: 10, marginBottom: 10 };
